@@ -302,3 +302,5 @@ dist/
 ## Авторы и контакты
 
 Добавьте информацию о команде, ссылку на issue tracker и правила контрибуции при публикации на GitHub.
+
+**Репозиторий на GitHub:** [change_small_city](https://github.com/yuliakaplaukh/change_small_city)
